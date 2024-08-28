@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 11
+Class-Path: json-20210307.jar slf4j-api-1.7.32.jar
+Main-Class: com.test.App
+Created-By: Maven Integration for Eclipse
+
